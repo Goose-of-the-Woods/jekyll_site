@@ -10,9 +10,7 @@ Everywhere you look, more obviously so on the internet, the desire for more and 
 
 <br />
 <img src="{{ "/assets/img/posts/atlas.jpg" | absolute_url }}" alt="atlas" class="post-pic"/>
-<center>
-<em>The weight of knowledge</em>
-</center>
+<p class="italic-quote">The weight of knowledge</p>
 
 <br />
 There’s no doubt that more information gives us more things. We, as a species, become more knowledgeable about the world as we soak in more information. But does that truly mean that we know better? Does it really improve our lives? In this way, are we better off knowing more than knowing less? Most people, I assume, would probably say that are better off knowing more. But, why? What is the reason that could proclaim us, as a species, to be a better or improved form, by knowing more things?
