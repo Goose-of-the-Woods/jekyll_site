@@ -5,13 +5,9 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 gem "jekyll", "~> 4.0.0"
-
 gem "listen", "~> 3.7"
-
 gem "webrick", "~> 1.7"
-
 gem "jekyll-seo-tag"
-
 gem "jekyll-sitemap"
 
 # Plugins

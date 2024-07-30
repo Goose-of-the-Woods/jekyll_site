@@ -8,6 +8,7 @@ baseurl: "" # the subpath of the site
 url: "https://gooseofthewoods.earth" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "G-4VTQNMXXJE"
+imagesurl: "/assets/img/mooches/"
 
 header:
   pages:

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: gallery
 ---
 <p style="text-align: center">
   All the animals we've met along the way.
