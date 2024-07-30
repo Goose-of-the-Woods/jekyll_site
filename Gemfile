@@ -10,6 +10,10 @@ gem "listen", "~> 3.7"
 
 gem "webrick", "~> 1.7"
 
+gem "jekyll-seo-tag"
+
+gem "jekyll-sitemap"
+
 # Plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
