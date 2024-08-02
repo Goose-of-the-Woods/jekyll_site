@@ -33,6 +33,29 @@
   }
 }
 
+#seasons {
+  display: inline-block;
+  text-align: center;
+}
+
+.seasons-link {
+  display: inline-block;
+  font-size: 14px;
+  color: #FFFFFF;
+  padding: 5px 15px 5px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.seasons-link:hover {
+  background-color: #f0f0f0;
+  color: #8E6410;
+  text-decoration: none;
+  border: 1px solid #666666;
+}
+
 /**
  * Site nav
  */
@@ -72,7 +95,6 @@
       line-height: 0;
       padding-top: 4px;
       text-align: center;
-
       background: #ffffff url($base-url + '/assets/img/menu.png') 6px 4px no-repeat;
       background-size: 26px 26px;
     }

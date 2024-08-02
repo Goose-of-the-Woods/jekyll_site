@@ -2,7 +2,6 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <h4>CONTACT</h4>
 
         <div class="social-links">
           {% for contact in site.footer.contact %}
@@ -52,11 +51,7 @@
 
           {% endfor %}
         </div>
-      </div>
-
-      <div class="footer-col footer-col-2">
         {% if site.footer.follow and site.footer.follow.size > 0 %}
-          <h4>FOLLOW</h4>
 
           <div class="social-links follow-links">
             {% for follow in site.footer.follow %}
@@ -79,6 +74,9 @@
             {% endfor %}
           </div>
         {% endif %}
+      </div>
+      <div class="footer-col footer-col-2">
+          <div id="seasons"></div>
       </div>
     </div>
   </div>
