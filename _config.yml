@@ -17,7 +17,7 @@ header:
     - name: home
       slug: /
     - name: mooches
-    #- name: small projects
+    - name: small projects
     - name: blog
 
 footer:
