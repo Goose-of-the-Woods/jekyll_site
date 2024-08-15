@@ -3,20 +3,17 @@
 
 title: Goose of the Woods
 description: >- # this means to ignore newlines until "baseurl:"
-  Our portal to nowhere
+  Our portal to the unknown
 baseurl: "" # the subpath of the site
 url: "https://gooseofthewoods.earth" # the base hostname & protocol for the site
 # og_image: /assets/img/profile-pic.jpg
 google_analytics: "G-4VTQNMXXJE"
 
-# Assets URLs
-moochesurl: "/assets/img/mooches/"
-
 header:
   pages:
     - name: home
       slug: /
-    - name: mooches
+    - name: glimpses
     - name: small projects
     - name: blog
 
